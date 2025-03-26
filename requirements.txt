@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+sqlalchemy
+pymysql
+pandas
+folium
+streamlit-folium
+datetime
+pymysql
